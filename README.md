@@ -23,11 +23,12 @@
 - [How to Use / Customize](#customize)
 - [Technologies Used](#technologies)
 - [Goals for Future Versions](#future_versions)
+- [Credits](#credits)
 - [License](#license)
 
 ## 🧐 About <a name = "about"></a>
 
-This project was built to practice and demonstrate CSS layout skills, typography, responsive design, utility classes, and UI styling without any JavaScript or frameworks.
+This project was built to practice and demonstrate CSS layout skills, typography, responsive design, utility classes, and UI styling with minimal JavaScript used for visual effects.
 
 The goal is to create a clean and modern user interface using only HTML and CSS — perfect for improving fundamentals and portfolio showcase.
 
@@ -60,14 +61,14 @@ git clone https://github.com/dorarodriguezag/css-project.git
     ├── index.html
     └── README.md
 
-### 🎨 How to Use / Customize <a name = "customize"></a>
+## 🎨 How to Use / Customize <a name = "customize"></a>
 
 - Add new sections by copying the HTML structure
 - Extend styles in index.css
 - Create reusable CSS utility classes
 - Experiment with CSS Grid and Flexbox
 
-### 🛠 Technologies Used <a name = "technologies"></a>
+## 🛠 Technologies Used <a name = "technologies"></a>
 
 - HTML5: Markup of the pages
 - CSS3: Styling and layout
@@ -79,6 +80,16 @@ git clone https://github.com/dorarodriguezag/css-project.git
 - Animations with CSS keyframes
 - Improved mobile layout breakpoints
 
+## 📘 Credits <a name = "credits"></a>
+
+This project was built as a learning exercise following a tutorial.
+Design inspiration and instructional guidance provided by:
+
+- Colt Steele (The Web Developer Bootcamp)
+
+This repository represents my own implementation and customization of the project.
+
 ## 📄 License <a name = "license"></a>
 
-This project is open source — feel free to use.
+This project is licensed under the ISC License.
+You are free to use, modify, and distribute it.
