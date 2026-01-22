@@ -85,7 +85,7 @@ git clone https://github.com/dorarodriguezag/css-project.git
 This project was built as a learning exercise following a tutorial.
 Design inspiration and instructional guidance provided by:
 
-- Colt Steele (The Web Developer Bootcamp)
+- Colt Steele (The HTML & CSS Bootcamp)
 
 This repository represents my own implementation and customization of the project.
 
